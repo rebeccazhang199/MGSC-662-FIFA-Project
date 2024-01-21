@@ -11,10 +11,8 @@ This project, developed for MGSC 662, focuses on assembling an optimal national 
 - **Optimization with Constraints**: Balanced team dynamics and budget constraints using Gurobi.
 
 ## Project Highlights
-- **Criteria for Player Selection**: Focused on skill, fitness, and form.
+- **Criteria for Player Selection**: Focused on skill, fitness, and form, etc.
 - **Tactical Formation Strategy**: Optimized player positions and team balance.
-- **Budget and Dynamics Constraints**: Ensured realistic team assembly within budget limits.
-- **Sensitivity Analysis**: Explored the impact of budget and player availability changes.
 - **In-Depth Data Analysis**: Provided insights from extensive FIFA22 player data.
 
 ## Technologies Used
