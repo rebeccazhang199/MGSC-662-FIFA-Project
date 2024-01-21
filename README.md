@@ -1,5 +1,3 @@
-# MGSC-662-FIFA-Project
- 
 # FIFA World Cup Team Optimization Using Gurobi
 
 ## Project Overview
